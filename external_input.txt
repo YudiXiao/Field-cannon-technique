@@ -1,0 +1,12 @@
+&list
+grid_size = 0.000005
+Nstep = 500000
+core_length = 0.0109
+win_length = 0.0059
+bump_length = 0.0018
+bump_width = 0.0002
+wind_thickness = 0.0001
+wind_width = 0.0055
+distance_wind_to_wind = 0.0015
+relapermea_core = 900.0
+/
